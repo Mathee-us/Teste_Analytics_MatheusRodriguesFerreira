@@ -32,12 +32,10 @@ Os dados de vendas estão armazenados no arquivo `data_clean.csv`. Este arquivo 
 ## Exemplos de Visualizações
 ### Distribuição das Vendas por Mês
 
-![Distribuição das Vendas por Mês](Teste_Analytics_MatheusRodriguesFerreira
-/Parte 1 Programação em Python/vendas_mensais.png)
+![Distribuição das Vendas por Mês](Parte 1 Programação em Python/vendas_mensais.png)
 
 ### Tendências de Vendas Mensais
-![Tendências de Vendas Mensais](Teste_Analytics_MatheusRodriguesFerreira
-/Parte 1 Programação em Python/vendas_categorias.png)
+![Tendências de Vendas Mensais](Parte 1 Programação em Python/vendas_categorias.png)
 
 ## Parte 2: SQL
 Esta parte consiste em escrever consultas SQL com base nas tabelas geradas na Parte 1.
