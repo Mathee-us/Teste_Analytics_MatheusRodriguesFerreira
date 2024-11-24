@@ -32,10 +32,10 @@ Os dados de vendas estão armazenados no arquivo `data_clean.csv`. Este arquivo 
 ## Exemplos de Visualizações
 ### Distribuição das Vendas por Mês
 
-![Distribuição das Vendas por Mês](Parte 1 Programação em Python/vendas_mensais.png)
+![Distribuição das Vendas por Mês](Parte_1_Programação_em_Python/vendas_mensais.png)
 
 ### Tendências de Vendas Mensais
-![Tendências de Vendas Mensais](Parte 1 Programação em Python/vendas_categorias.png)
+![Tendências de Vendas Mensais](Parte_1_Programação_em_Python/vendas_categorias.png)
 
 ## Parte 2: SQL
 Esta parte consiste em escrever consultas SQL com base nas tabelas geradas na Parte 1.
@@ -55,7 +55,7 @@ Nesta parte, é necessário escrever um breve relatório resumindo os principais
    ```
 2. Navegue até o diretório da Parte 1:
    ```sh
-   cd Parte 1 Programação em Python
+   cd Parte_1_Programação_em_Python
    ```
 3. Instale as dependências necessárias:
    ```sh
@@ -70,14 +70,14 @@ Nesta parte, é necessário escrever um breve relatório resumindo os principais
 ### Parte 2: SQL
 1. Navegue até o diretório da Parte 2:
    ```sh
-   cd ../Parte 2 SQL
+   cd ../Parte_2_SQL
    ```
 2. Utilize um banco de dados SQL para executar as consultas do arquivo `consultas_sql.sql`.
 
 ### Parte 3: Interpretação de Resultados
 1. Navegue até o diretório da Parte 3:
    ```sh
-   cd ../Parte 3 Interpretação de Resultados
+   cd ../Parte_3_Interpretação_de_Resultados
    ```
 2. Abra o arquivo `relatorio_insights.pdf` para visualizar o relatório com a interpretação dos resultados.
 
